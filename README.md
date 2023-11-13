@@ -47,3 +47,4 @@
 - [Jorge Freitas](https://github.com/jorgelcff) 👊
 - [Felipe Gusmão](https://github.com/felipevgusmao) :rocket:
 - [Maiara Lira](https://github.com/MaiLira) :octopus:
+- [Alexandre de Souza](https://github.com/asc55) 🚀
